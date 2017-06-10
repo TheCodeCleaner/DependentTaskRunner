@@ -1,0 +1,3 @@
+Put nuget.exe in this folder.
+run in cmd:
+nuget pack DependentTaskRunner.csproj -symbols -properties Configuration=Release

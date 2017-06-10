@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Code Cleaner</authors>
+    <owners>Code Cleaner</owners>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/TheCodeCleaner/DependentTaskRunner</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>New Release</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>Parallel Tasks Dependent</tags>
+  </metadata>
+</package>
